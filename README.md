@@ -1,2 +1,2 @@
 # Yeelight-Python-Example
-Example Yeelight applications using Python language.
+The samples in this repostory have been tested with the Yeelight Smart Led Bulb 1s Color model lamp. You can get help on how to connect your lamp to your network at https://www.yeelight.com/pages/faq.html#/en_US/yeelightapp. Also, It has been used the library at https://yeelight.readthedocs.io/en/latest/. The examples in this repostory are for educational purposes only. No liability is accepted for any damage that may occur as a result of the use of the examples in this repostory.
